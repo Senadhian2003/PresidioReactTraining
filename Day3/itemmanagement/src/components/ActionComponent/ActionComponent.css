@@ -1,0 +1,14 @@
+.ActionComponent{
+    border: 1px solid black;
+    margin: auto;
+    width: 50%;
+    padding: 2%;
+}
+
+input{
+    margin: 10px;
+}
+
+.add-button{
+    margin-top: 10px;
+}
