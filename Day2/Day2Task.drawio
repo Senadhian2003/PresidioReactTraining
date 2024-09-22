@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.14">
+  <diagram name="Page-1" id="3VsabFN8LKJKrNsYgcgS">
+    <mxGraphModel dx="1710" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-1" target="EXY4cMtg-0CB3__Ui6Fg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-1" target="EXY4cMtg-0CB3__Ui6Fg-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="200" />
+              <mxPoint x="570" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-1" value="weihu&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-4" target="EXY4cMtg-0CB3__Ui6Fg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-4" target="EXY4cMtg-0CB3__Ui6Fg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-4" value="Sidebar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-6" target="EXY4cMtg-0CB3__Ui6Fg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-6" target="EXY4cMtg-0CB3__Ui6Fg-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-6" target="EXY4cMtg-0CB3__Ui6Fg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-6" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-8" value="NavElement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-10" value="NavHeading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-12" target="EXY4cMtg-0CB3__Ui6Fg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-12" target="EXY4cMtg-0CB3__Ui6Fg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-12" target="EXY4cMtg-0CB3__Ui6Fg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-12" value="HeaderNav" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-14" target="EXY4cMtg-0CB3__Ui6Fg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-14" value="Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-16" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-18" value="SearchComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-20" value="BoardComponent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-22" value="ProfileBubble" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-24" value="MainTask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-28" target="EXY4cMtg-0CB3__Ui6Fg-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-28" target="EXY4cMtg-0CB3__Ui6Fg-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXY4cMtg-0CB3__Ui6Fg-28" target="EXY4cMtg-0CB3__Ui6Fg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-28" value="SubTask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-30" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-32" value="Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EXY4cMtg-0CB3__Ui6Fg-34" value="Progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
