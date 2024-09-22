@@ -27,6 +27,8 @@ function TableComponent() {
 
     }
 
+    console.log(state)
+
   return (
     <div>
 
