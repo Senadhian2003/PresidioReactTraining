@@ -4,7 +4,7 @@ import "./ActionComponent.css"
 import { ItemContext } from '../ItemContext'
 function ActionComponent() {
 
-    const {state, dispatch} = useContext(ItemContext)
+    const { dispatch} = useContext(ItemContext)
     const [name, setName] = useState('')
     const [description, setDescription] = useState('')
 

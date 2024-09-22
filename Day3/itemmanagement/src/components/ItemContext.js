@@ -11,6 +11,8 @@ function itemReducer(state, action){
         return [...state, action.payload]
     case 'REmOVE_ITEM':
         return state.filter((item)=>item.id!=action.payload)
+    case 'FILTER_ITEM':
+        return state.filter((item)=> item.name.includes(action.payload) || item.description.includes(action.payload))
 }
 
 }

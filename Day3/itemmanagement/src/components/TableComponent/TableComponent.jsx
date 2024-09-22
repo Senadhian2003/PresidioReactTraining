@@ -1,12 +1,25 @@
-import React from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Table from 'react-bootstrap/Table';
 import { useContext } from 'react';
 import { ItemContext } from '../ItemContext';
+import useSortFilter from '../CustomHooks/useSortFilter';
 
 
 function TableComponent() {
 
     const {state, dispatch} = useContext(ItemContext);
+    const [searchTerm, setSearchTerm] = useState('')
+    const [sortKey, setSortKey] = useState('');
+
+    const searchInputRef = useRef(null);
+
+    useEffect(()=>{
+
+      searchInputRef.current.focus()
+
+    },[])
+
+    const filteredItems = useSortFilter(state, searchTerm, sortKey)
 
     const deleteItem = (id)=>{
         console.log("Deleting item")
@@ -16,6 +29,15 @@ function TableComponent() {
 
   return (
     <div>
+
+      <input type="text" value={searchTerm} onChange={(e)=>setSearchTerm(e.target.value)}  ref={searchInputRef} />
+
+      <select onChange={(e) => setSortKey(e.target.value)}>
+          <option value="">Sort By</option>
+          <option value="name">Name</option>
+          <option value="description">Description</option>
+        </select>
+
          <Table striped bordered hover>
       <thead>
         <tr>
@@ -28,7 +50,7 @@ function TableComponent() {
       <tbody>
        
        {
-        state.map((item, index)=>{
+        filteredItems.map((item, index)=>{
             return <tr>
                 <td>{index}</td>
                 <td>{item.name}</td>
