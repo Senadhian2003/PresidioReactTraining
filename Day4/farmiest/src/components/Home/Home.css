@@ -1,0 +1,60 @@
+.main{
+    background-image: url('../../Assets/FarmiestBackground.png');
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-image {
+    background-image: url('../../Assets/Home.png');
+    background-size: contain;  /* You can also use 'cover' if you prefer */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;  /* Allows the div to expand based on the image size */
+    width: 100%;   /* Makes the image take up full width of the parent container */
+}
+
+.organic-image{
+    margin-top: 40px
+}
+
+
+.main-welcome-text{
+    font-size: 48px;
+    margin-top: 45px;
+    margin-top: 100px;
+}
+
+.main-welcome-text span{
+   color: #10B981;
+}
+
+.main-welcome-quote{
+    font-size: 24px;
+    position: relative;
+    display: inline-block;
+
+}
+
+.main-welcome-quote::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -5px; 
+    height: 3px;   
+    background-color: black;  
+    border-radius: 5px;  
+  }
+
+.main-button{
+    margin-top: 60px;
+    width: 170px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
